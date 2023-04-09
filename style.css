@@ -1,0 +1,30 @@
+.container{
+    border: 2px solid rgb(128, 0, 11) ;
+    padding: 10px;
+    background-color:palegoldenrod;
+    
+    
+    }
+    .heading{
+     text-align: center;
+     text-transform: uppercase;
+     color: thistle;
+     font-family: fantasy;
+    
+    }
+    .paragraph{
+    color: black;
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 5px;
+    font-family: fantasy;
+    }
+    .cocktail{
+        color: orangered;
+        font-size: xx-large;
+    }
+    .container{
+        border: 2px solid rgb(128, 0, 11) ;
+        padding: 10px;
+        background-color:rgb(42, 39, 184);
+    }
